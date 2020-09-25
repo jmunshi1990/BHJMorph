@@ -2,7 +2,7 @@
 An algorithm to convert atomic trajectories to spatially discrete morphology
 
 # Citation 
-Developed by Joydeep Munshi and Indranil Roy at Lehigh University 
+Developed by Joydeep Munshi at Lehigh University 
 
 1. Joydeep Munshi, Rabindra Dulal, TeYu Chien, Wei Chen, and Ganesh Balasubramanian
 ACS Applied Materials & Interfaces 2019 11 (18), 17056-17067
